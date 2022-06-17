@@ -20,5 +20,5 @@ Original Repo
 [vital987](https://github.com/vital987/vubuntu)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/akuhnet/hero-vps-lifetime)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/batool78692110/hero-vps-lifetime)
 
